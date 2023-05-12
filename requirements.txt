@@ -1,0 +1,14 @@
+albumentations==1.2.0
+streamlit==1.21.0
+numpy==1.20.2
+opencv-python-headless==4.5.2.52
+#opencv-python==4.5.1.48
+pillow==8.4.0
+scikit-image==0.18.1
+tqdm==4.46.1
+simpleitk==2.2.0
+torch==1.12.1
+torchvision==0.13.1
+wheel==0.38.4
+scikit-learn==1.0.2
+pip==22.3.1
